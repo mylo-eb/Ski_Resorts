@@ -6,6 +6,10 @@ This project analyzes ski resorts using Python programming language and Microsof
 
 # Colclusion
 Top 5 child-friendly ski resort countries are Austria, France, USA (with some non-child-friendly resorts), Switzerland, and Italy.
+You can see in pictures below distribution of numeric data in resort dataset.
+![Screenshot 2023-04-14 144639](https://user-images.githubusercontent.com/121390440/232131749-f69aba97-c0c0-4f5c-8578-5a0c752eba6e.png)
+![Screenshot 2023-04-14 144907](https://user-images.githubusercontent.com/121390440/232131750-47a9d7a6-6be0-4640-ae46-e48a010c9ace.png)
+The threshold for considering a dataset as skewed depends on the context and the specific statistical analysis being performed. Generally speaking, if the absolute value of the skewness is greater than 1, the dataset can be considered significantly skewed. However, the interpretation of the skewness value depends on the distribution of the data and the specific goals of the analysis.
 
 ## Questions?
 Email the author at mylo.ebted@gmail.com
